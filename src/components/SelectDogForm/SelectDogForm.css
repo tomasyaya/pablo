@@ -1,0 +1,10 @@
+form input {
+  background-color: rgba(124, 114, 114, 0.5);
+  color: white;
+  margin-left: 5px;
+  margin-top: 5px;
+  border-radius: 20px;
+}
+form input:hover {
+  transform: scale(1.1);
+}
